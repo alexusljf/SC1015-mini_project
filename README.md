@@ -8,3 +8,14 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
   1. @horsemandy
   2. @Jackongithub229
   3. @iLowLife
+
+# Problem Definition
+
+# Models Used
+  1. Linear Regression
+
+# Conclusion
+
+# What did we learn from this project?
+
+# References
