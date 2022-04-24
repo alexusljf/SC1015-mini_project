@@ -5,9 +5,9 @@ Welcome to the Certificate Of Entitlement (COE) Prediction repository.
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on COE Quota Price from sgcharts.com:
 
 # Contributors
-  1. @horsemandy
-  2. @Jackongithub229
-  3. @iLowLife
+  1. @horsemandy        - Alexus
+  2. @Jackongithub229   - Jack
+  3. @iLowLife          - Cheng Feng
 
 # Problem Definition
   * Predict the optimal price of COE 
