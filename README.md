@@ -5,7 +5,7 @@ Welcome to the Certificate Of Entitlement (COE) Prediction repository.
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on COE Quota Price from sgcharts.com:
 
 # Contributors
-  1. @horsemandy (Data Preparation, Data Cleaning, Data Visualization, Machine Learning, Presentation, Github Repo)         - Alexus
+  1. @alexusljf (Data Preparation, Data Cleaning, Data Visualization, Machine Learning, Presentation, Github Repo)         - Alexus
   2. @Jackongithub229  (Data Preparation, Data Cleaning, Data Visualization, Machine Learning, Presentation, Github Repo)   - Jack
   3. @iLowLife  (Data Preparation, Data Cleaning, Data Visualization, Machine Learning, Presentation, Github Repo)          - Cheng Feng
 
